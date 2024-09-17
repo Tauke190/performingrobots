@@ -6,9 +6,9 @@ Age: Late 60s
 
 Occupation: Senior Scientist and Chemist, Head of Research and Development
 
-![Alt text](/mrgreen.png)
-![Alt text](/voxelmrgreen.png)
-![Alt text](/voxelmrgreencartoon.jpg)
+![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/mrgreen.png?raw=true)
+![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreen.png?raw=true)
+![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreencartoon.jpg?raw=true)
 
 ## Physical Description:
 
