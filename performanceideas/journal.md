@@ -6,6 +6,10 @@ Age: Late 60s
 
 Occupation: Senior Scientist and Chemist, Head of Research and Development
 
+![Alt text](/mrgreen.png)
+![Alt text](/voxelmrgreen.png)
+![Alt text](/voxelmrgreencartoon.jpg)
+
 ## Physical Description:
 
 Tall, frail with age but sharp eyes
