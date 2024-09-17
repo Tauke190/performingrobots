@@ -5,10 +5,10 @@ Name: Dr. Theodore Green
 Age: Late 60s
 
 Occupation: Senior Scientist and Chemist, Head of Research and Development
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/mrgreen.png?raw=true" alt="mrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreen.png?raw=true" alt="voxelmrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreencartoon.jpg?raw=true" alt="voxelmrgreencartoon" width="300"/>
 
-![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/mrgreen.png?raw=true)
-![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreen.png?raw=true)
-![Alt text](https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreencartoon.jpg?raw=true)
 
 ## Physical Description:
 
