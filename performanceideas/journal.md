@@ -1,14 +1,22 @@
 ## September 19
 
-Fabricated the base of the robot by using different tools and equipments like drills. Measured the base properly to install the drill holes. Mounted the motors with the wheel attachment.
 
 
 
 <br>
 <br>
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base1.jpg" alt="mrgreen" width="300"/>
-<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base2.jpg" alt="voxelmrgreen" width="300"/>
-<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base3.jpg" alt="voxelmrgreencartoon" width="300"/>
+Fabricated the base of the robot by using different tools and equipments like drills. Measured the base properly to install the drill holes. Mounted the motors with the wheel attachment.]
+
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base2.jpg" alt="voxelmrgreen" 
+width="300"/>
+These are the holes that we drilled. They was a hole already in that place , so we had to carefully drill the hole so it does not make the hole bigger.
+
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base3.jpg" 
+alt="voxelmrgreencartoon" width="300"/>
+The wheels are attached to the motor with m10 nuts and bolt. The shaft of the motor is withheld by a m8 screw.
+
+
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base4.jpg" alt="voxelmrgreencartoon" width="300"/>
 
 
