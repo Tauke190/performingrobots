@@ -17,7 +17,7 @@ These are the holes that we drilled. They was a hole already in that place , so 
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base3.jpg" 
 alt="voxelmrgreencartoon" width="300"/>
 <br>
-The wheels are attached to the motor with m10 nuts and bolt. The shaft of the motor is withheld by a m8 screw.
+The wheels are attached to the motor with m10 nuts and bolt. The shaft of the motor is withheld by a m8 nut.
 
 <br>
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base4.jpg" alt="voxelmrgreencartoon" width="300"/>
