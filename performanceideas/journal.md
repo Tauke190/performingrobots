@@ -6,9 +6,10 @@ Fabricated the base of the robot by using different tools and equipments like dr
 
 <br>
 <br>
-<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/mrgreen.png?raw=true" alt="mrgreen" width="300"/>
-<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreen.png?raw=true" alt="voxelmrgreen" width="300"/>
-<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreencartoon.jpg?raw=true" alt="voxelmrgreencartoon" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base1.jpg" alt="mrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base2.jpg" alt="voxelmrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base3.jpg" alt="voxelmrgreencartoon" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base4.jpg" alt="voxelmrgreencartoon" width="300"/>
 
 
 
