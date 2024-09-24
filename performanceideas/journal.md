@@ -6,23 +6,21 @@
 <br>
 <br>
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base1.jpg" alt="mrgreen" width="300"/>
-Fabricated the base of the robot by using different tools and equipments like drills. Measured the base properly to install the drill holes. Mounted the motors with the wheel attachment.]
+We fabricated the base of the robot by utilizing a range of tools and equipment, such as drills and measurement devices, to ensure precision and stability. The base was carefully measured and marked to accurately position and install the necessary drill holes for mounting components. After preparing the base, We securely attached the motors, ensuring proper alignment with the wheel attachments to enable smooth movement. Throughout the process, attention to detail and precise measurements were crucial to ensure the robot's structural integrity and functionality.
+
 
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base2.jpg" alt="voxelmrgreen" 
 width="300"/>
+<br>
 These are the holes that we drilled. They was a hole already in that place , so we had to carefully drill the hole so it does not make the hole bigger.
 
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base3.jpg" 
 alt="voxelmrgreencartoon" width="300"/>
+<br>
 The wheels are attached to the motor with m10 nuts and bolt. The shaft of the motor is withheld by a m8 screw.
 
-
+<br>
 <img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/base4.jpg" alt="voxelmrgreencartoon" width="300"/>
-
-
-
-
-
 
 
 
