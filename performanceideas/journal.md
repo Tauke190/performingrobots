@@ -1,8 +1,28 @@
+## September 19
+
+Fabricated the base of the robot by using different tools and equipments like drills. Measured the base properly to install the drill holes. Mounted the motors with the wheel attachment.
+
+
+
+<br>
+<br>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/mrgreen.png?raw=true" alt="mrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreen.png?raw=true" alt="voxelmrgreen" width="300"/>
+<img src="https://github.com/Tauke190/performingrobots/blob/master/performanceideas/voxelmrgreencartoon.jpg?raw=true" alt="voxelmrgreencartoon" width="300"/>
+
+
+
+
+
+
+
+
 Character Outline: Mr. Green
 
 Name: Dr. Theodore Green
 
 Age: Late 60s
+
 
 Occupation: Senior Scientist and Chemist, Head of Research and Development
 <br>
