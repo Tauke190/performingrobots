@@ -1,6 +1,18 @@
+
+## October 1
+
+How can robots enhance or challenge traditional theatrical performances, particularly in terms of emotional expression and character development?
+
+How might blurring the lines between human and robotic appearances impact societal perceptions of identity, self, and the concept of being "human"?
+
+
+
+## September 24
+
+We focused on reinforcing the robot's base by attaching secondary wheels to ensure stability and smooth movement, preventing wobbling or getting stuck on uneven surfaces. To secure the battery, we drilled holes in the base and fastened it with zip ties. Afterward, we mounted the motors using screws for a firm attachment. Our next step is to create a dedicated space on the base to mount the electronics efficiently.
+
+
 ## September 19
-
-
 
 
 <br>
